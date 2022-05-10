@@ -1,16 +1,10 @@
-# R_data_cleaning
-Exam on cleaning multiple excel sheets with R
-
 # R Data Cleaning
-> this was an exam for a class I took in college that was focused on 
+> this was an exam for a class I took in college that was focused on cleaning multiple data sets at the same time.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies/Languages Used](#technologies-languages-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
